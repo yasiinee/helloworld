@@ -1,0 +1,10 @@
+{
+    "name": "rbinfo/hello",
+    "authors": [
+        {
+            "name": "yassine",
+            "email": "yassinesaid5@gmail.com"
+        }
+    ],
+    "require": {}
+}
