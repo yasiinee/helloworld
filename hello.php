@@ -1,5 +1,7 @@
 <?php
-function hello(){
-	echo "hello  world";
-
+class helloClass{
+    function hello(){
+        echo "hello world";
+    
+    }
 }
